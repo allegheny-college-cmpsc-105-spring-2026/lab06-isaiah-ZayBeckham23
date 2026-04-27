@@ -1,0 +1,100 @@
+# ----------------------------------------
+# Reports snapshot
+# Account: ZayBeckham23
+# Property: Isaiah Beckham's Website
+# ----------------------------------------
+#  
+# Start date: 20260330
+# End date: 20260426
+Nth day,Active users
+
+
+# Start date: 20260330
+# End date: 20260426
+Nth day,New users
+
+
+# Start date: 20260330
+# End date: 20260426
+Nth day,Average engagement time per active user
+
+
+# Start date: 20260330
+# End date: 20260426
+Nth day,Total revenue
+
+
+# Where do your new users come from?
+# Start date: 20260330
+# End date: 20260426
+First user primary channel group (Default Channel Group),New users
+
+
+#  
+# Start date: 20260330
+# End date: 20260426
+Session primary channel group (Default Channel Group),Sessions
+
+
+#  
+# Start date: 20260330
+# End date: 20260426
+Country ID,Active users
+
+
+# Start date: 20260330
+# End date: 20260426
+Country,Active users
+
+
+# How are active users trending?
+# Start date: 20260330
+# End date: 20260426
+Nth day,30 days,7 days,1 day
+
+
+# How well do you retain your users?
+# Start date: 20260315
+# End date: 20260425
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Mar 15 - Mar 21,0,0,0,0,0,0
+Mar 22 - Mar 28,0,0,0,0,0,-1
+Mar 29 - Apr 4,0,0,0,0,-1,-1
+Apr 5 - Apr 11,0,0,0,-1,-1,-1
+Apr 12 - Apr 18,0,0,-1,-1,-1,-1
+Apr 19 - Apr 25,0,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20260330
+# End date: 20260426
+Page title and screen class,Views
+
+
+#  
+# Start date: 20260330
+# End date: 20260426
+Event name,Event count
+
+
+# What are your top performing key events?
+# Start date: 20260330
+# End date: 20260426
+Event name,Key events
+
+
+# Where does your average 120d value come from?
+# Start date: 20260330
+# End date: 20260426
+First user primary channel group (Default Channel Group),Average 120d value
+
+
+#  
+# Start date: 20260330
+# End date: 20260426
+Item name,Items purchased
+
+
+# How does activity on your platforms compare?
+# Start date: 20260330
+# End date: 20260426
+Platform,Key events
