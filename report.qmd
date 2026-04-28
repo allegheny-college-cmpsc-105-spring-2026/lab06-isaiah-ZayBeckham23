@@ -2,28 +2,29 @@
 title: Report
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+Complete: Write your report in this `report.qmd` file using markdown syntax.
 
 ## What this was lab about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
-
+Complete: Briefly summarize what this lab was about and what you did at a high level.
+This lab focused on creating and analyzing a questionnaire, along with exploring data using Python and pandas. At a high level, I worked with two datasets: one from a class survey and another from Google Analytics. The lab involved implementing the questionnaire, analyzing the responses, and mapping the data at the end to better visualize patterns and trends.
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
-
+Complete: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+To gather and analyze the data, I used CSV files that were loaded into pandas DataFrames. I updated the column names to match the datasets and used functions like .head() to preview and understand the structure. I also applied filtering and created visualizations, such as boxplots, to compare variables.
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
-
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
-
+Complete: Briefly restate what you found out about your classmates by exploring the data. 
+I wasnt able to gather much data through my quesitonaire given that nobody has checked it. 
+Complete: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+Again i wasnt able to gather much data. 
 Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
-
+Complete: Briefly mention how data gathering can help you answer specific questions.
+This lab demonstrated how collecting data through a questionnaire and analyzing it can help answer specific questions. By organizing the data and using visualizations and mapping, it becomes much easier to identify trends and draw meaningful conclusions from the responses and analytics.
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+Complete: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+In the future, I could explore deeper relationships within the data or, compare questionnaire responses across more classmates. I could also expand the mapping portion to include more variables or create more detailed visualizations to better understand patterns in both the survey and analytics data.
